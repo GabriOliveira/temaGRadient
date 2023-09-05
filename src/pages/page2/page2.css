@@ -1,0 +1,5 @@
+.roda {
+    shape-outside: circle();
+    clip-path: circle();
+    
+}
